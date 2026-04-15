@@ -1,6 +1,10 @@
 # IA-de-Estudos-com-NotebookLM-Design-Thinking
 Uso de IA como ferramenta de aprendizagem ativa: criação de um caderno temático no NotebookLM sobre Design Thinking, com curadoria de conteúdo, testes de prompts e um miniguia prático para estudo e aplicação no mercado.
 
+  Notebook do Projeto
+
+  Acessar no NotebookLM - (https://notebooklm.google.com/notebook/cf4cd78b-67fa-48a9-b12e-2619ecc6fcd0)
+
 Contexto e Objetivos
 
   Este projeto foi desenvolvido como parte de um desafio prático da DIO, com o objetivo de explorar o uso da Inteligência   Artificial como ferramenta de aprendizagem ativa.
